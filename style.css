@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    align-items: center;
+}
+li {
+    width: 250px;
+    background-color: red;
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 5px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+}
